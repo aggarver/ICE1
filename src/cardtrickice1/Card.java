@@ -44,8 +44,15 @@ public class Card
     public void setSuits(String suits) {
         this.suits = suits;
     }
+    /**@Override
+    public String toString(){
+        return "Card"{" +"suit='"+ suit+ '\" + ",value=" + value +"};
+   }
+    //}*/
+}
+
    //number
     
     //method for suits
     
-}
+
