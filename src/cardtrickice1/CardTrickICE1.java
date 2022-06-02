@@ -37,7 +37,7 @@ public class CardTrickICE1 {
         
      //Step 2: Take input
      //Input of suit and number from the user
-        System.out.print("Enter suit:"
+        System.out.print("Enter suit of your lucky card "
                 + ""
                 + " 1.Hearts"
                 + ""
@@ -47,7 +47,7 @@ public class CardTrickICE1 {
                 + ""
                 + " 4.Clubs");       
         String suit = input.next();
-         System.out.print("Enter card number from 1 to 12: ");
+         System.out.print("Enter the number of your lucky card: ");
         int number = input.nextInt();
         
         
