@@ -68,7 +68,8 @@ public class CardTrickICE1 {
         if (!found)
             System.out.println("Card is not present.");
         }
-    }}
+    }
+}
     
         
        
